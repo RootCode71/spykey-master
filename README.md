@@ -1,6 +1,6 @@
 # SpyKey v1.0
-## Author: https://github.com/thelinuxchoice/spykey
-## IG: instagram.com/thelinuxchoice
+## Author: https://github.com/exshohag/spykey-master.git
+## IG: instagram.com/
 
 ### Don't copy this code without give me the credits, nerd! 
 FUD Win32 Keylogger and Reverse Shell (cmd.exe)
@@ -20,7 +20,7 @@ Usage of SpyKey for attacking targets without prior mutual consent is illegal. I
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/spykey
+git clone https://github.com/exshohag/spykey-master.git
 cd spykey
 bash spykey.sh
 ```
